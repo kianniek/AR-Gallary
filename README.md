@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AR-Gallary
-=======
 # AR-Gallery: VPS Kunstinstallatie
 
 **AR-Gallery** is an Augmented Reality (AR) platform designed to integrate non-destructive, interactive digital art installations directly into public urban spaces. By utilizing a **Visual Positioning System (VPS)**, artists can place digital artwork at millimeter-level accuracy across cities without altering physical infrastructure or incurring physical maintenance costs.
@@ -100,4 +97,3 @@ Upload 3D assets (.fbx, .gltf), fill in artwork metadata, position the model on-
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
->>>>>>> 7e08543 (Updated README.md)

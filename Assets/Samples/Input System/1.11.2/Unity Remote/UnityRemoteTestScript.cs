@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.EnhancedTouch;
@@ -14,9 +15,9 @@ public class UnityRemoteTestScript : MonoBehaviour
     public new Camera camera;
 #pragma warning restore 0109
 
-    public Text accelerometerInputText;
-    public Text touchInputText;
-    public Text gyroInputText;
+    public TMP_Text accelerometerInputText;
+    public TMP_Text touchInputText;
+    public TMP_Text gyroInputText;
 
     // We rotate this cube based on gyro input. Also, we sync its position on screen
     // the position of the primary touch.

@@ -46,8 +46,6 @@ public class SensorManager : MonoBehaviour
         {
             Debug.Log(inputDevice);
         }
-
-        
         
         InputSystem.EnableDevice(Accelerometer.current);
         InputSystem.EnableDevice(Gyroscope.current);
